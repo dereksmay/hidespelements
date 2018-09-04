@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "hide-sp-element",
+    "libraryId": "3c1d6aa4-a92b-4ee5-acec-c582e8021bdc",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

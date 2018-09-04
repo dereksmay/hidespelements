@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hide-sp-element-client-side-solution",
+    "id": "3c1d6aa4-a92b-4ee5-acec-c582e8021bdc",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/hide-sp-element.sppkg"
+  }
+}
